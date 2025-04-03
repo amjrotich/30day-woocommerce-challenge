@@ -1,4 +1,4 @@
-Here's a **30-day WooCommerce Developer Challenge** to extend and enhance WooCommerce by creating or modifying plugins. Each day presents a new challenge, progressively increasing in complexity.  
+A **30-day WooCommerce Developer Challenge** to extend and enhance WooCommerce by creating or modifying plugins. Each day presents a new challenge, progressively increasing in complexity.  
 
 ---
 
